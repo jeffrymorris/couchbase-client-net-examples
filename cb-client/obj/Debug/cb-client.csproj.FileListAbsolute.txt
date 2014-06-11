@@ -1,0 +1,12 @@
+C:\Users\jmorris\repos\working\couchbase-net-client-example\cb-client\bin\Debug\cb-client.exe.config
+C:\Users\jmorris\repos\working\couchbase-net-client-example\cb-client\bin\Debug\cb-client.exe
+C:\Users\jmorris\repos\working\couchbase-net-client-example\cb-client\bin\Debug\cb-client.pdb
+C:\Users\jmorris\repos\working\couchbase-net-client-example\cb-client\bin\Debug\Couchbase.dll
+C:\Users\jmorris\repos\working\couchbase-net-client-example\cb-client\bin\Debug\Enyim.Caching.dll
+C:\Users\jmorris\repos\working\couchbase-net-client-example\cb-client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jmorris\repos\working\couchbase-net-client-example\cb-client\bin\Debug\Couchbase.xml
+C:\Users\jmorris\repos\working\couchbase-net-client-example\cb-client\bin\Debug\Enyim.Caching.xml
+C:\Users\jmorris\repos\working\couchbase-net-client-example\cb-client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jmorris\repos\working\couchbase-net-client-example\cb-client\obj\Debug\cb-client.csprojResolveAssemblyReference.cache
+C:\Users\jmorris\repos\working\couchbase-net-client-example\cb-client\obj\Debug\cb-client.exe
+C:\Users\jmorris\repos\working\couchbase-net-client-example\cb-client\obj\Debug\cb-client.pdb
